@@ -14,6 +14,11 @@ body {
     background-image: url("../img/bg-mobile.jpg");
   }
 }
+@media only screen and (max-device-width: 450px) {
+  body {
+    background-image: url("../img/bg-mobile-portrait.jpg");
+  }
+}
 #container {
   max-width: 450px;
   margin: auto;
