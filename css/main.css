@@ -14,7 +14,7 @@ body {
     background-image: url("../img/bg-mobile.jpg");
   }
 }
-@media only screen and (max-device-width: 450px) {
+@media only screen and (max-device-width: 475px) {
   body {
     background-image: url("../img/bg-mobile-portrait.jpg");
   }
