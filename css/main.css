@@ -10,6 +10,11 @@ body {
   min-width: 1024px;
 }
 
+@media only screen and (max-width: 767px) {
+  body {
+    background-image: url(../img/bg-mobile.jpg);
+  }
+}
 #container {
   max-width: 450px;
   margin: auto;
